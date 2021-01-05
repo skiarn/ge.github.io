@@ -54493,7 +54493,7 @@ O.a1m.prototype={
 $0:function(){var s=this.b,r=this.a
 s.pN("String","phone",r.d)
 s.pN("String","name",r.e)
-s.pN("Int","balance",0)},
+s.pN("Int","balance",r.f)},
 $S:1}
 O.a1p.prototype={
 $0:function(){var s,r,q,p=null,o=this.a
